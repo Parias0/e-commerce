@@ -24,9 +24,11 @@ Technologies
 
 smtp4dev Email - https://github.com/rnwood/smtp4dev/releases
 
+![image](https://github.com/Parias0/e-commerce/assets/95035651/84ce46fa-d77e-45c0-881f-eac78368d941)
+![image](https://github.com/Parias0/e-commerce/assets/95035651/b93ebacc-ebcf-4c8a-88a2-7f5750fb1f6e)
+![image](https://github.com/Parias0/e-commerce/assets/95035651/bc08cebf-d0b4-4adf-be48-e56c63b7864f)
+![image](https://github.com/Parias0/e-commerce/assets/95035651/5425733a-2683-432c-811d-76fffeedc7e8)
 
-![image](https://github.com/Parias0/e-commerce/assets/95035651/194d3337-6ab3-4f60-b115-774e5715493d)
-![image](https://github.com/Parias0/e-commerce/assets/95035651/09651be3-3fa1-47e7-b3ca-1e814b7f09c3)
-![image](https://github.com/Parias0/e-commerce/assets/95035651/5cc2626b-71ef-42de-a8de-41d2b8162fe8)
+
 
 
